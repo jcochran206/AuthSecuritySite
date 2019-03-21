@@ -15,6 +15,10 @@ The site is meant to provide the various levels of security for users.  It will 
 - Mongoose 5.4.17
 - Mongoose-encryption 2.0.2
 - MD5 1.3.0
+- dotenv 6.2.0
+- passport 0.4.0
+- passport local 1.0.0
+- passport-local-mongoose 5.0.1
 ## setup
 - cd into directory
 - use git clone in your terminal
